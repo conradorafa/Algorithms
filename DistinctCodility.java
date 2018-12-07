@@ -1,5 +1,3 @@
-package com.rafaapp.codility;
-
 import java.util.HashSet;
 import java.util.Set;
 
